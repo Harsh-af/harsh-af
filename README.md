@@ -18,7 +18,7 @@
 
 
 <br/>
-- 🔭 I’m currently working on Laravel, php, artisan, PostgreSQL, ReactJS, Docker
+- 🔭 I’m currently working on Laravel, php, artisan, PostgreSQL, Docker, ReactJS
 <br/><br/>
 - 🌱 I’m currently learning Laravel Eloquent
 <br/><br/>
