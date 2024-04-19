@@ -28,7 +28,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-
+<br></br>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -49,7 +49,14 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-
+<br></br><br></br>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/harsh-karanwal-a35b8a175/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
