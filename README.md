@@ -17,15 +17,35 @@
 </div>
 
 
-**Harsh-af/harsh-af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+- 🔭 I’m currently working on Laravel, php, artisan, PostgreSQL, ReactJS, Docker
+<br/><br/>
+- 🌱 I’m currently learning Laravel Eloquent
+<br/><br/>
+- ⚡ I’m currently researching on how to stack React with Laravel & SQL
+<br/><br/>
+- 📫 How to reach me: Contacting mediums i have provided in my profile
+<!-- - ⚡ Fun fact: ... -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,laravel,react,npm,postgres,postman,nodejs,nextjs,angular,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,py,redux,tailwind,ts,vscode,kubernetes,p5js&perline=14" />
+  </a>
+</p>
+
+<br></br>
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
