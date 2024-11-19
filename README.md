@@ -50,7 +50,14 @@
     </a>
 </div>
 <br></br><br></br>
-<!-- Connect with me -->
+<!-- roadmap -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My roadmap.sh</h2></summary>
+    <img src="https://roadmap.sh/card/wide/673acc44f20970fd4884fadc?variant=dark&roadmaps=datastructures-and-algorithms" />
+  </ul>
+</div>
+<!-- roadmap -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
