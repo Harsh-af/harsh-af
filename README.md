@@ -17,14 +17,16 @@
 </div>
 
 
-<br/>
-- 🔭 I’m currently working on Laravel, php, artisan, PostgreSQL, Docker, ReactJS
 <br/><br/>
-- 🌱 I’m currently learning Laravel Eloquent ORM
+• 🔭 I’m currently working on Laravel, php, artisan, PostgreSQL, Docker, ReactJS
 <br/><br/>
-- ⚡ I’m currently researching on how to stack React with Laravel and PostgreSQL
+• 🌱 I’m currently learning Laravel Eloquent ORM
 <br/><br/>
-- 📫 How to reach me: Contacting mediums I have provided in my profile
+• ⚡ I’m currently researching on how to stack React with Laravel and PostgreSQL
+<br/><br/>
+• 📒 I am currently studying DSA in deapth in C++
+<br/><br/>
+• 📫 How to reach me: Contacting mediums I have provided in my profile
 <!-- - ⚡ Fun fact: ... -->
 
 
