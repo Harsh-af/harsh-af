@@ -20,11 +20,11 @@
 <br/>
 - 🔭 I’m currently working on Laravel, php, artisan, PostgreSQL, Docker, ReactJS
 <br/><br/>
-- 🌱 I’m currently learning Laravel Eloquent
+- 🌱 I’m currently learning Laravel Eloquent ORM
 <br/><br/>
-- ⚡ I’m currently researching on how to stack React with Laravel & SQL
+- ⚡ I’m currently researching on how to stack React with Laravel and PostgreSQL
 <br/><br/>
-- 📫 How to reach me: Contacting mediums i have provided in my profile
+- 📫 How to reach me: Contacting mediums I have provided in my profile
 <!-- - ⚡ Fun fact: ... -->
 
 
