@@ -56,7 +56,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My roadmap.sh</h2></summary>
-    <img src="https://roadmap.sh/card/wide/673acc44f20970fd4884fadc?variant=dark&roadmaps=datastructures-and-algorithms" />
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/673acc44f20970fd4884fadc?variant=dark&roadmaps=cpp%2Cdatastructures-and-algorithms" alt="roadmap.sh"/></a>
   </ul>
 </div>
 <!-- roadmap -->
