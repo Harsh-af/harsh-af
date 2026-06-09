@@ -13,15 +13,11 @@
 
 
 <br/><br/>
-• 🔭 I’m currently working on Laravel, php, artisan, PostgreSQL, ReactJS
-<br/><br/>
-• 🌱 I’m currently learning Laravel Eloquent ORM
-<br/><br/>
-• ⚡ I’m currently researching on how to stack React with Laravel and PostgreSQL
-<br/><br/>
-• 📒 I am currently studying DSA in deapth in C++
-<br/><br/>
-• 📫 How to reach me: Contacting mediums I have provided in my profile
+- 🔭 I’m currently working on Laravel, PHP, artisan, PostgreSQL, Ruby on Rails
+- 🌱 I’m currently learning developing Service Workers
+- ⚡ I’m currently researching the HTTPS requirements for setting up a Service Worker, its scope limitations, and its DOM access restrictions.
+- 📒 I am currently studying DSA in deapth in C++
+- 📫 How to reach me: Contacting mediums I have provided in my profile
 <!-- - ⚡ Fun fact: ... -->
 
 
@@ -35,7 +31,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,laravel,react,npm,postgres,postman,nodejs,nextjs,angular,cpp,css,discord,docker,postgres,prisma,express,figma,firebase,redis,github,html,java,js,linux,materialui,nginx,mongodb,mysql,py,redux,tailwind,ts,vscode,r,kubernetes,p5js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,laravel,react,nextjs,p5js,npm,postgres,redis,docker,kubernetes,nodejs,p5js,cpp,css,jquery,discord,postgres,prisma,express,figma,firebase,github,html,java,js,linux,materialui,nginx,mongodb,mysql,py,redux,tailwind,ts,r,p5js&perline=14" />
   </a>
 </p>
 
